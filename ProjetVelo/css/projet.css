@@ -1,0 +1,210 @@
+.carousel-inner > .item > img{
+    margin: 0 auto;
+}
+a {
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+body {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.Layer7{
+    height: 800px;
+    background: url("../Photoshop/assets/Layer%207.png") center center;
+    background-size: cover;
+}
+.Layer10{
+    background-image: url("../Photoshop/assets/Layer%2010.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 60%;
+    
+}
+.VintageOliva{
+    height: 400px;
+    overflow: hidden;
+    display: inline-block;
+}
+.Layer11{
+    background-image: url("../Photoshop/assets/Layer%2011.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: inline-block;
+}
+.Layer12{
+    background-image: url("../Photoshop/assets/Layer%2012.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 60%;
+}
+.Layer13{
+    background-image: url("../Photoshop/assets/Layer%2013.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: inline-block;
+}
+.Layer14{
+    background-image: url("../Photoshop/assets/Layer%2014.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 33%;
+}
+.Layer15{
+    background-image: url("../Photoshop/assets/Layer%2015.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 33%;
+}
+.Layer16{
+    background-image: url("../Photoshop/assets/Layer%2016.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: inline-block;
+}
+.Layer19{
+    background-image: url("../Photoshop/assets/Layer%2019.png");
+    height: 300px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 50%;
+}
+.Layer20{
+    background-image: url("../Photoshop/assets/Layer%2020.png");
+    height: 300px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 100%;
+}
+.Layer21{
+    background-image: url("../Photoshop/assets/Layer%2021.png");
+    height: 300px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 50%;
+}
+.Layer22{
+    background-image: url("../Photoshop/assets/Layer%2022.png");
+    height: 535px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 50%;
+}
+.Layer23{
+    background-image: url("../Photoshop/assets/Layer%2023.png");
+    height: 300px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 100%;
+}
+.Layer24{
+    background-image: url("../Photoshop/assets/Layer%2024.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 50%;
+}
+.Layer25{
+    background-image: url("../Photoshop/assets/Layer%2025.png");
+    height: 535px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 50%;
+}
+.Layer26{
+    background-image: url("../Photoshop/assets/Layer%2026.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 50%;
+}
+.SideBySide{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: none;
+}
+.SideBySide2{
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: none;
+}
+#FooterSBS{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: none;
+    background-color: aliceblue;
+}
+#InputSBS{
+    height: 53px;
+    width: 100%;
+    margin: none;
+    display: inline-block;
+}
+#SideBySide{
+    height: 600px;
+    width: 39%;
+    display: flex;
+    flex-direction: row;
+    margin: none;
+}
+.OnTop{
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    margin: none;
+    padding: none;
+}
+#OnTop{
+    width: 25%;
+    height: 89%;
+    display: flex;
+    flex-direction: column;
+    margin: none;
+    padding: none;
+}
+.button {
+    background-color: darkslategrey;
+    border: true;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#divbutton {
+    background-color: darkslategrey;
+}
+input[type=submit]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 0px 2px;
+    cursor: pointer;
+}
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    
+    box-sizing: border-box;
+    border: none;
+    background-color: lightgray;
+    color: white;
+}
